@@ -1,0 +1,9 @@
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Core\bin\Debug\DeluxeOM.Core.dll
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Core\bin\Debug\DeluxeOM.Core.pdb
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Core\obj\Debug\DeluxeOM.Core.dll
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Core\obj\Debug\DeluxeOM.Core.pdb
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Core\obj\Debug\DeluxeOM.Core.csprojResolveAssemblyReference.cache
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Core\bin\Debug\DeluxeOM.Core.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Core\bin\Debug\DeluxeOM.Core.pdb
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Core\obj\Debug\DeluxeOM.Core.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Core\obj\Debug\DeluxeOM.Core.pdb

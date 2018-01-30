@@ -1,0 +1,71 @@
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Repository.dll
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Repository.pdb
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\obj\Debug\DeluxeOM.Repository.dll
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\obj\Debug\DeluxeOM.Repository.pdb
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Core.dll
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Core.pdb
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\obj\Debug\DeluxeOM.Repository.csprojResolveAssemblyReference.cache
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.dll
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.xml
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Prasad\Knowllege Base\Deluxe\Source\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Repository.dll.config
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Repository.dll.config
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Repository.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Repository.pdb
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.xml
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\obj\Debug\DeluxeOM.Repository.csprojResolveAssemblyReference.cache
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\obj\Debug\DeluxeOM.Repository.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\obj\Debug\DeluxeOM.Repository.pdb
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Models.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Models.pdb
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.Mvc.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Microsoft.Owin.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.Razor.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Owin.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.Mvc.xml
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Microsoft.Owin.xml
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.Razor.xml
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.xml
+D:\Jadhav Sir shared files\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Repository.dll.config
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Repository.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Repository.pdb
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Models.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\PagedList.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.Mvc.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Microsoft.Owin.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.Razor.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Owin.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\DeluxeOM.Models.pdb
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\PagedList.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.Mvc.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\Microsoft.Owin.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.Razor.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\obj\Debug\DeluxeOM.Repository.csprojResolveAssemblyReference.cache
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\obj\Debug\DeluxeOM.Repository.dll
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\obj\Debug\DeluxeOM.Repository.pdb
+D:\Prasad\My Projects\DeluxeOrderManagement\DeluxeOrderManagement\DeluxeOM.Repository\bin\Debug\FoolproofValidation.dll

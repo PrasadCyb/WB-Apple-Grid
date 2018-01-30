@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/WcfTest">
+    <file relUrl="DeluxeOM.WCFServiceLib.Service1.svc" publishTime="12/11/2017 11:51:56" />
+    <file relUrl="bin/DeluxeOM.WCFServiceLib.pdb" publishTime="12/11/2017 11:38:46" />
+    <file relUrl="bin/DeluxeOM.WCFServiceLib.dll.config" publishTime="12/11/2017 11:35:19" />
+    <file relUrl="Web.config" publishTime="12/11/2017 11:35:19" />
+    <file relUrl="bin/DeluxeOM.WCFServiceLib.dll" publishTime="12/11/2017 11:38:46" />
+  </publishTarget>
+</publishData>

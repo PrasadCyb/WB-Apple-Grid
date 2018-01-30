@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"Guide conventions\" to=\"Setting up alerts\" num=\"49\"/><ck fm=\"Title report\" to=\"Titles\" num=\"2\"/></cki>";
