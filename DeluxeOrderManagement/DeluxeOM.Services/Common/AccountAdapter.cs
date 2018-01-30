@@ -17,6 +17,7 @@ namespace DeluxeOM.Services.Common
         {
             UserRepository userRepo = new UserRepository();
 
+
             UserModel ety = new UserModel()
             {
                 UserId = userModel.UserId,
